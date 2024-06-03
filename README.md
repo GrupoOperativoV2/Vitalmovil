@@ -1,6 +1,8 @@
 # VitalIA-M
 
-A new Flutter project.
+flutter dodctor 
+flutter devices 
+flutter run -d chrome --web-port=57356
 
 ## Getting Started
 
